@@ -8,13 +8,25 @@ class PostController extends Controller
 {
     public function index()
     {
-        $title = 'Mon super titre';
-        $title2 = 'Mon super second titre';
-
-        return view('articles',[
-            'title' => $title,
-            'title2' => $title2
-        ]);
-
+    
+        return view('pages.front-page');
+ 
     }
+    
+    public function product()
+    {
+    
+        return view('pages.product');
+ 
+    }
+    public function single()
+    {
+    
+        return view('pages.single');
+ 
+    }
+    
+    
+    
+   
 }

@@ -14,4 +14,7 @@ use App\Http\Controllers\PostController;
 |
 */
 
-Route::get('/',[PostController::class, 'index']);
+Route::get('/',[PostController::class, 'index'])->name('acceuil');
+Route::get('/produit',[PostController::class, 'product'])->name('produit');
+Route::get('/actualite',[PostController::class, 'single'])->name('actualite');
+
