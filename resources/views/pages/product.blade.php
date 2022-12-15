@@ -1,15 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
-
-
 <section class="produit-banner">
         <div class="produit-container">
-            <div class="section-header">
+            <div class="produit-header">
                 <div class="bloc-title-produit">
                     <div class="crayon">
                         <div class="carre-rose-produit">
-                            <img src="assets/images/crayon.svg" class="icon-crayon-header" alt="icon-crayon" width="21"
+                            <img src="{{ asset('images/crayon.svg') }}" class="icon-crayon-header" alt="icon-crayon" width="21"
                                 height="22">
                         </div>
                         <div class="box-produit-title">
@@ -22,7 +20,7 @@
                 </div>
  
                 <div class="bg-container-column">
-                    <img src="assets/images/img-produit.svg" class="image-acceuil" alt="Image page d'acceuil"
+                    <img src="{{ asset('images/img-produit.svg') }}" class="image-acceuil" alt="Image page d'acceuil"
                         width="595" height="403">
                 </div>
             </div>
@@ -57,17 +55,17 @@
                         <div class="product-row">
                             <div class="product-aside">
                                 <a href="#" class="product-thumbnail">
-                                    <img src="assets/images/crayon.svg" class="icon-crayon" alt="icon-crayon" width="21"
+                                    <img src="{{ asset('images/crayon.svg') }}" class="icon-crayon" alt="icon-crayon" width="21"
                                         height="22">
                                 </a>
                                 <div class="product-interractions">
                                     <a href="#" title="J'aime"
                                         class="product-interractions-item product-interractions-item-like">
-                                        <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                        <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                     </a>
                                     <a href="#" title="J'aime pas"
                                         class="product-interractions-item product-interractions-item-unlike">
-                                        <img src="assets/images/unlike.svg" alt="J'aime pas" width="13" height="13">
+                                        <img src="{{ asset('images/unlike.svg') }}" alt="J'aime pas" width="13" height="13">
                                     </a>
                                 </div>
                             </div>
@@ -81,7 +79,7 @@
 
                                     <a href="#" class="product-rating">
                                         <div class="product-interractions-item product-interractions-item-like">
-                                            <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                            <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                         </div>
                                         <span class="product-rating-count product-rating-count-like">2560</span>
                                     </a>
@@ -107,11 +105,11 @@
                                 <div class="product-interractions">
                                     <a href="#" title="J'aime"
                                         class="product-interractions-item product-interractions-item-like">
-                                        <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                        <img src="{{ asset('images/icon-like.svg') }}"alt="J'aime" width="13" height="13">
                                     </a>
                                     <a href="#" title="J'aime pas"
                                         class="product-interractions-item product-interractions-item-unlike">
-                                        <img src="assets/images/unlike.svg" alt="J'aime pas" width="13" height="13">
+                                        <img src="{{ asset('images/unlike.svg') }}" alt="J'aime pas" width="13" height="13">
                                     </a>
                                 </div>
                             </div>
@@ -125,7 +123,7 @@
 
                                     <a href="#" class="product-rating">
                                         <div class="product-interractions-item product-interractions-item-like">
-                                            <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                            <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                         </div>
                                         <span class="product-rating-count product-rating-count-like">2560</span>
                                     </a>
@@ -151,11 +149,11 @@
                                 <div class="product-interractions">
                                     <a href="#" title="J'aime"
                                         class="product-interractions-item product-interractions-item-like">
-                                        <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                        <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                     </a>
                                     <a href="#" title="J'aime pas"
                                         class="product-interractions-item product-interractions-item-unlike">
-                                        <img src="assets/images/unlike.svg" alt="J'aime pas" width="13" height="13">
+                                        <img src="{{ asset('images/unlike.svg') }}" alt="J'aime pas" width="13" height="13">
                                     </a>
                                 </div>
                             </div>
@@ -169,7 +167,7 @@
 
                                     <a href="#" class="product-rating">
                                         <div class="product-interractions-item product-interractions-item-like">
-                                            <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                            <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                         </div>
                                         <span class="product-rating-count product-rating-count-like">2560</span>
                                     </a>
@@ -195,11 +193,11 @@
                                 <div class="product-interractions">
                                     <a href="#" title="J'aime"
                                         class="product-interractions-item product-interractions-item-like">
-                                        <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                        <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                     </a>
                                     <a href="#" title="J'aime pas"
                                         class="product-interractions-item product-interractions-item-unlike">
-                                        <img src="assets/images/unlike.svg" alt="J'aime pas" width="13" height="13">
+                                        <img src="{{ asset('images/unlike.svg') }}" alt="J'aime pas" width="13" height="13">
                                     </a>
                                 </div>
                             </div>
@@ -213,7 +211,7 @@
 
                                     <a href="#" class="product-rating">
                                         <div class="product-interractions-item product-interractions-item-like">
-                                            <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                            <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                         </div>
                                         <span class="product-rating-count product-rating-count-like">2560</span>
                                     </a>
@@ -239,11 +237,11 @@
                                 <div class="product-interractions">
                                     <a href="#" title="J'aime"
                                         class="product-interractions-item product-interractions-item-like">
-                                        <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                        <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                     </a>
                                     <a href="#" title="J'aime pas"
                                         class="product-interractions-item product-interractions-item-unlike">
-                                        <img src="assets/images/unlike.svg" alt="J'aime pas" width="13" height="13">
+                                        <img src="{{ asset('images/unlike.svg') }}" alt="J'aime pas" width="13" height="13">
                                     </a>
                                 </div>
                             </div>
@@ -257,7 +255,7 @@
 
                                     <a href="#" class="product-rating">
                                         <div class="product-interractions-item product-interractions-item-like">
-                                            <img src="assets/images/icon-like.svg" alt="J'aime" width="13" height="13">
+                                            <img src="{{ asset('images/icon-like.svg') }}" alt="J'aime" width="13" height="13">
                                         </div>
                                         <span class="product-rating-count product-rating-count-like">2560</span>
                                     </a>
@@ -286,4 +284,5 @@
             </div>
         </div>
     </section>
+
 @endsection

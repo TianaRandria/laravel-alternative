@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="banner-container">
+<section class="banner-index">
     <div class=" first-banner-container">
       <div class="banner-container-title">
         <h1 class=" banner-title">Trouver une alternative<br> à<span class="photoshop"> Photoshop|</span></h1>
@@ -22,7 +22,7 @@
 
 
 
-  <!----------------------------------------------------Nos catégories mises en avant----------------------------------------------------------------------->
+  <!--Nos catégories mises en avant--->
   <section class="container">
 
     <div id="nos-categories">

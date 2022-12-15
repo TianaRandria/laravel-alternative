@@ -35,7 +35,7 @@
             <div class="article-btn">
                 <div class="categories-btn">
                     <a class="btn voir-plus" href="#" role="button">Voir Plus</a>
-                    <a class="btn decouvrir" href="#" role="button">Découvrir</a>
+                    <a class="btn btn-alternative" href="#" role="button">Découvrir</a>
                     
                 </div>
               </div>
