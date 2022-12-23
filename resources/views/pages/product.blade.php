@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('content')
 <section class="produit-banner">
         <div class="produit-container">
@@ -99,7 +98,7 @@
                         <div class="product-row">
                             <div class="product-aside">
                                 <a href="#" class="product-thumbnail">
-                                    <img src="assets/images/crayon.svg" class="icon-crayon" alt="icon-crayon" width="21"
+                                    <img src="{{ asset('images/crayon.svg') }}" class="icon-crayon" alt="icon-crayon" width="21"
                                         height="22">
                                 </a>
                                 <div class="product-interractions">
@@ -143,7 +142,7 @@
                         <div class="product-row">
                             <div class="product-aside">
                                 <a href="#" class="product-thumbnail">
-                                    <img src="assets/images/crayon.svg" class="icon-crayon" alt="icon-crayon" width="21"
+                                    <img src="{{ asset('images/crayon.svg') }}" class="icon-crayon" alt="icon-crayon" width="21"
                                         height="22">
                                 </a>
                                 <div class="product-interractions">
@@ -187,7 +186,7 @@
                         <div class="product-row">
                             <div class="product-aside">
                                 <a href="#" class="product-thumbnail">
-                                    <img src="assets/images/crayon.svg" class="icon-crayon" alt="icon-crayon" width="21"
+                                    <img src="{{ asset('images/crayon.svg') }}" class="icon-crayon" alt="icon-crayon" width="21"
                                         height="22">
                                 </a>
                                 <div class="product-interractions">
@@ -231,7 +230,7 @@
                         <div class="product-row">
                             <div class="product-aside">
                                 <a href="#" class="product-thumbnail">
-                                    <img src="assets/images/crayon.svg" class="icon-crayon" alt="icon-crayon" width="21"
+                                    <img src="{{ asset('images/crayon.svg') }}" class="icon-crayon" alt="icon-crayon" width="21"
                                         height="22">
                                 </a>
                                 <div class="product-interractions">
@@ -275,7 +274,7 @@
 
                 <div class="description-alternatives">
                     <a href="#">
-                        <h2 class="description">Description Alternative</h2>
+                        <h3 class="description">Description Alternative</h3>
                     </a>
                     <p class="description-texte">Lorem ipsum dolor sit amet, consectetur<br> adipiscing elit,<br> 
                         40<br>

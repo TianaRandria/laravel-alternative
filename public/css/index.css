@@ -3,9 +3,9 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
-  src: url("../assets/fonts/poppins-v20-latin-regular.eot");
+  src: url("..fonts/poppins-v20-latin-regular.eot");
   /* IE9 Compat Modes */
-  src: local(""), url("../assets/fonts/poppins-v20-latin-regular.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/poppins-v20-latin-regular.woff2") format("woff2"), url("../assets/fonts/poppins-v20-latin-regular.woff") format("woff"), url("../assets/fonts/poppins-v20-latin-regular.ttf") format("truetype"), url("../assets/fonts/poppins-v20-latin-regular.svg#Poppins") format("svg");
+  src: local(""), url("..fonts/poppins-v20-latin-regular.eot?#iefix") format("embedded-opentype"), url("..fonts/poppins-v20-latin-regular.woff2") format("woff2"), url("..fonts/poppins-v20-latin-regular.woff") format("woff"), url("..fonts/poppins-v20-latin-regular.ttf") format("truetype"), url("..fonts/poppins-v20-latin-regular.svg#Poppins") format("svg");
   /* Legacy iOS */
 }
 /* montserrat-regular - latin */
@@ -13,9 +13,9 @@
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
-  src: url("../assets/fonts/montserrat-v25-latin-regular.eot");
+  src: url("..fonts/montserrat-v25-latin-regular.eot");
   /* IE9 Compat Modes */
-  src: local(""), url("../assets/fonts/montserrat-v25-latin-regular.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/montserrat-v25-latin-regular.woff2") format("woff2"), url("../assets/fonts/montserrat-v25-latin-regular.woff") format("woff"), url("../assets/fonts/montserrat-v25-latin-regular.ttf") format("truetype"), url("../assets/fonts/montserrat-v25-latin-regular.svg#Montserrat") format("svg");
+  src: local(""), url("..fonts/montserrat-v25-latin-regular.eot?#iefix") format("embedded-opentype"), url("..fonts/montserrat-v25-latin-regular.woff2") format("woff2"), url("..fonts/montserrat-v25-latin-regular.woff") format("woff"), url("..fonts/montserrat-v25-latin-regular.ttf") format("truetype"), url("..fonts/montserrat-v25-latin-regular.svg#Montserrat") format("svg");
   /* Legacy iOS */
 }
 /* montserrat-700 - latin */
@@ -23,9 +23,9 @@
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
-  src: url("../assets/fonts/montserrat-v25-latin-700.eot");
+  src: url("..fonts/montserrat-v25-latin-700.eot");
   /* IE9 Compat Modes */
-  src: local(""), url("../assets/fonts/montserrat-v25-latin-700.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/montserrat-v25-latin-700.woff2") format("woff2"), url("../assets/fonts/montserrat-v25-latin-700.woff") format("woff"), url("../assets/fonts/montserrat-v25-latin-700.ttf") format("truetype"), url("../assets/fonts/montserrat-v25-latin-700.svg#Montserrat") format("svg");
+  src: local(""), url("..fonts/montserrat-v25-latin-700.eot?#iefix") format("embedded-opentype"), url("..fonts/montserrat-v25-latin-700.woff2") format("woff2"), url("..fonts/montserrat-v25-latin-700.woff") format("woff"), url("..fonts/montserrat-v25-latin-700.ttf") format("truetype"), url("..fonts/montserrat-v25-latin-700.svg#Montserrat") format("svg");
   /* Legacy iOS */
 }
 /* montserrat-500 - latin */
@@ -33,9 +33,9 @@
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
-  src: url("..assets/fonts/montserrat-v25-latin-500.eot");
+  src: url("..fonts/montserrat-v25-latin-500.eot");
   /* IE9 Compat Modes */
-  src: local(""), url("..assets/fonts/montserrat-v25-latin-500.eot?#iefix") format("embedded-opentype"), url("..assets/fonts/montserrat-v25-latin-500.woff2") format("woff2"), url("..assets/fonts/montserrat-v25-latin-500.woff") format("woff"), url("..assets/fonts/montserrat-v25-latin-500.ttf") format("truetype"), url("..assets/fonts/montserrat-v25-latin-500.svg#Montserrat") format("svg");
+  src: local(""), url("..fonts/montserrat-v25-latin-500.eot?#iefix") format("embedded-opentype"), url("..fonts/montserrat-v25-latin-500.woff2") format("woff2"), url("..fonts/montserrat-v25-latin-500.woff") format("woff"), url("..fonts/montserrat-v25-latin-500.ttf") format("truetype"), url("..fonts/montserrat-v25-latin-500.svg#Montserrat") format("svg");
   /* Legacy iOS */
 }
 /* poppins-700 - latin */
@@ -43,9 +43,9 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  src: url("..assets/fonts/poppins-v20-latin-700.eot");
+  src: url("..fonts/poppins-v20-latin-700.eot");
   /* IE9 Compat Modes */
-  src: local(""), url("..assets/fonts/poppins-v20-latin-700.eot?#iefix") format("embedded-opentype"), url("..assets/fonts/poppins-v20-latin-700.woff2") format("woff2"), url("..assets/fonts/poppins-v20-latin-700.woff") format("woff"), url("..assets/fonts/poppins-v20-latin-700.ttf") format("truetype"), url("..assets/fonts/poppins-v20-latin-700.svg#Poppins") format("svg");
+  src: local(""), url("..fonts/poppins-v20-latin-700.eot?#iefix") format("embedded-opentype"), url("..fonts/poppins-v20-latin-700.woff2") format("woff2"), url("..fonts/poppins-v20-latin-700.woff") format("woff"), url("..fonts/poppins-v20-latin-700.ttf") format("truetype"), url("..fonts/poppins-v20-latin-700.svg#Poppins") format("svg");
   /* Legacy iOS */
 }
 /* montserrat-600 - latin */
@@ -53,9 +53,9 @@
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
-  src: url("..assets/fonts/montserrat-v25-latin-600.eot");
+  src: url("..fonts/montserrat-v25-latin-600.eot");
   /* IE9 Compat Modes */
-  src: local(""), url("..assets/fonts/montserrat-v25-latin-600.eot?#iefix") format("embedded-opentype"), url("..assets/fonts/montserrat-v25-latin-600.woff2") format("woff2"), url("..assets/fonts/montserrat-v25-latin-600.woff") format("woff"), url("..assets/fonts/montserrat-v25-latin-600.ttf") format("truetype"), url("..assets/fonts/montserrat-v25-latin-600.svg#Montserrat") format("svg");
+  src: local(""), url("..fonts/montserrat-v25-latin-600.eot?#iefix") format("embedded-opentype"), url("..fonts/montserrat-v25-latin-600.woff2") format("woff2"), url("..fonts/montserrat-v25-latin-600.woff") format("woff"), url("..fonts/montserrat-v25-latin-600.ttf") format("truetype"), url("..fonts/montserrat-v25-latin-600.svg#Montserrat") format("svg");
   /* Legacy iOS */
 }
 body {
@@ -1013,13 +1013,13 @@ h2,
   margin-top: 0px;
 }
 @media (max-width: 320px) {
-  .bloc-column-alternatives .description-alternatives .descriptionColumn {
+  .bloc-column-alternatives .description-alternatives {
     flex-direction: column;
     font-size: 20px;
     margin: 0px;
   }
 }
-.bloc-column-alternatives .description-alternatives .description-texte {
+.bloc-column-alternatives .description-texte {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;

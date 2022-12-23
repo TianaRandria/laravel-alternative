@@ -23,7 +23,7 @@
 
 
   <!--Nos catégories mises en avant--->
-  <section class="container">
+  <section class="container-categorie">
 
     <div id="nos-categories">
       <div class="categorie-article-1 ">

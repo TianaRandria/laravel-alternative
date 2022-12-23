@@ -1,9 +1,8 @@
 @extends('layouts.app')
-
 @section('content')
 <section class="banner-search-alternative">
         <div class="search-alternative-container">
-            <div class="section-header">
+            <div class="alternative-banner">
                 <div class="search-alternative-container-column">
                     <h2 class=" search-alternative-title">
                         Comment trouver une bonne alternative?</h2>

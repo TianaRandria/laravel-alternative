@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ asset('css/index.css') }}?v=1.3">
+   
+    @vite(['resources/scss/index.scss','resources/js/app.js'])
+    
     <title>alternative.net</title>
 </head>
 <body>
 <header>
     <nav class="navbar">
-      <a href="index.html">
+      <a href="{{ route('acceuil') }}">
         <h3 class="site-name">alternatives.net</h3>
       </a>
       <div class="search-form">
@@ -37,7 +39,7 @@
             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
             Ut enim ad minim veniam.</p>
           <div class="footer-btn">
-            <a class="voir-plus" href="trouver-alternative.html">Voir Plus</a>
+            <a class="voir-plus" href="{{ route('actualite') }}">Voir Plus</a>
           </div>
         </div>
 
