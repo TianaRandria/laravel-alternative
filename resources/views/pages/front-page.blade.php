@@ -9,7 +9,7 @@
           sed do eiusmod tempor <br>incididunt ut labore et dolore magna aliqua.<br>
           Ut enim ad minim veniam.
         </p>
-        <a class="decouvrir" href="{{ route('produit') }}"><button class="decouvrir" type="button">Découvrir</button></a>
+        <a class="boutton boutton-alternative" href="{{ route('produit') }}">Découvrir</a>
 
 
       </div>
@@ -35,7 +35,7 @@
           </p>
         </div>
         <div class="categorie-btn">
-          <a class="voir-plus" href="#">Voir Plus</a>
+          <a class="boutton" href="#">Voir Plus</a>
         </div>
       </div>
 
@@ -166,7 +166,7 @@
           </p>
         </div>
         <div class="alternatives-btn">
-          <a class="voir-plus" href="#">Voir Plus</a>
+          <a class="boutton" href="#">Voir Plus</a>
         </div>
       </div>
       <div class="alternatives-card-row">
@@ -322,7 +322,7 @@
           </p>
         </div>
         <div class="alternatives-btn">
-          <a class="btn voir-plus" href="#" role="button">Voir Plus</a>
+          <a class="btn boutton" href="#" role="button">Voir Plus</a>
         </div>
       </div>
 

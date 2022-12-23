@@ -39,7 +39,7 @@
             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
             Ut enim ad minim veniam.</p>
           <div class="footer-btn">
-            <a class="voir-plus" href="{{ route('actualite') }}">Voir Plus</a>
+            <a class="boutton" href="{{ route('actualite') }}">Voir Plus</a>
           </div>
         </div>
 

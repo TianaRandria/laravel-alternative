@@ -38,7 +38,7 @@
                     </p>
                 </div>
                 <div class="alternatives-btn">
-                    <a class="voir-plus" href="#">Voir Plus</a>
+                    <a class="boutton" href="#">Voir Plus</a>
                 </div>
             </div>
         </div>
@@ -274,7 +274,7 @@
 
                 <div class="description-alternatives">
                     <a href="#">
-                        <h3 class="description">Description Alternative</h3>
+                        <h3 class="description-column">Description Alternative</h3>
                     </a>
                     <p class="description-texte">Lorem ipsum dolor sit amet, consectetur<br> adipiscing elit,<br> 
                         40<br>

@@ -107,7 +107,7 @@ h2,
   }
 }
 
-.decouvrir {
+.boutton boutton-alternative {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -122,7 +122,7 @@ h2,
   color: white;
 }
 @media (max-width: 768px) {
-  .decouvrir {
+  .boutton boutton-alternative {
     width: 155px;
     height: 43px;
     font-size: 15px;
@@ -130,7 +130,7 @@ h2,
   }
 }
 @media (max-width: 576px) {
-  .decouvrir {
+  .boutton boutton-alternative {
     font-size: 12px;
   }
 }
@@ -941,7 +941,7 @@ h2,
   justify-self: end;
   margin-top: 0px;
 }
-.alternatives-produit-section .alternatives-btn .voir-plus {
+.alternatives-produit-section .alternatives-btn .boutton {
   color: #C63882;
   font-style: normal;
   font-weight: bold;
@@ -1289,7 +1289,7 @@ h2,
     flex-direction: column;
   }
 }
-.article-btn .voir-plus-article {
+.article-btn .boutton-article {
   color: #C63882;
   font-style: normal;
   font-weight: bold;
@@ -1302,7 +1302,7 @@ h2,
   border-radius: 5px;
 }
 @media (max-width: 767px) {
-  .article-btn .voir-plus-article {
+  .article-btn .boutton-article {
     width: 155px;
     height: 43px;
     font-size: 15px;
@@ -1310,12 +1310,12 @@ h2,
   }
 }
 @media (max-width: 320px) {
-  .article-btn .voir-plus-article {
+  .article-btn .boutton-article {
     display: none;
   }
 }
 @media (max-width: 1200px) {
-  .article-btn .voir-plus-article {
+  .article-btn .boutton-article {
     width: 239px;
   }
 }
@@ -1352,7 +1352,7 @@ h2,
   }
 }
 
-.voir-plus {
+.boutton {
   color: #C63882;
   font-style: normal;
   font-weight: bold;
@@ -1367,7 +1367,7 @@ h2,
   text-decoration: none;
 }
 @media (max-width: 762px) {
-  .voir-plus {
+  .boutton {
     width: 155px;
     height: 43px;
     font-size: 15px;
@@ -1375,7 +1375,7 @@ h2,
   }
 }
 @media (max-width: 320px) {
-  .voir-plus {
+  .boutton {
     display: none;
   }
 }
@@ -1500,7 +1500,7 @@ h2,
   }
 }
 
-.voir-plus {
+.boutton {
   color: #C63882;
   font-style: normal;
   font-weight: bold;
@@ -1514,7 +1514,7 @@ h2,
   border-radius: 5px;
 }
 @media (max-width: 762px) {
-  .voir-plus {
+  .boutton {
     width: 155px;
     height: 43px;
     font-size: 15px;
@@ -1522,7 +1522,7 @@ h2,
   }
 }
 @media (max-width: 320px) {
-  .voir-plus {
+  .boutton {
     display: none;
   }
 }

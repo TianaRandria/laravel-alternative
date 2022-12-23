@@ -33,8 +33,8 @@
         <div>
             <div class="article-btn">
                 <div class="categories-btn">
-                    <a class="btn voir-plus" href="#" role="button">Voir Plus</a>
-                    <a class="btn btn-alternative" href="#" role="button">Découvrir</a>
+                    <a class="btn boutton" href="#" role="button">Voir Plus</a>
+                    <a class="boutton boutton-alternative" href="#" role="button">Découvrir</a>
                     
                 </div>
               </div>
